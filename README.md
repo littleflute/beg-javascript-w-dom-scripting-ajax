@@ -1,4 +1,9 @@
-# Apress Source Code
+# Apress Source Code V0.0.2
+[Chapter1](https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter1/)
+
+[Chapter2](https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter2/)
+
+
 
 This repository accompanies [*Beginning JavaScript with DOM Scripting and Ajax*](http://www.apress.com/9781590596807) by Christian Heilmann (Apress, 2006).
 
