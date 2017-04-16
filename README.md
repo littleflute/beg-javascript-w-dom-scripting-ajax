@@ -9,6 +9,7 @@
 [Chapter8](https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter8/)
 [Chapter9](https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter9/)
 [Chapter10](https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter10/)
+[Chapter11](https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter11/)
 
 This repository accompanies [*Beginning JavaScript with DOM Scripting and Ajax*](http://www.apress.com/9781590596807) by Christian Heilmann (Apress, 2006).
 
